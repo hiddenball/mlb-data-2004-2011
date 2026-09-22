@@ -1,0 +1,266 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 121347,
+    "teamId": 147,
+    "year": 2005
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 405395,
+    "teamId": 138,
+    "year": 2005
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 112526,
+    "teamId": 108,
+    "year": 2005
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 112020,
+    "teamId": 138,
+    "year": 2005
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 434718,
+    "teamId": 133,
+    "year": 2005
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 429667,
+    "teamId": 143,
+    "year": 2005
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 116539,
+    "teamId": 147,
+    "year": 2005
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 136767,
+    "teamId": 133,
+    "year": 2005
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 400085,
+    "teamId": 136,
+    "year": 2005
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 123660,
+    "teamId": 111,
+    "year": 2005
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 121386,
+    "teamId": 140,
+    "year": 2005
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 407893,
+    "teamId": 140,
+    "year": 2005
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 407861,
+    "teamId": 141,
+    "year": 2005
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 116338,
+    "teamId": 142,
+    "year": 2005
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 150484,
+    "teamId": 141,
+    "year": 2005
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 116662,
+    "teamId": 144,
+    "year": 2005
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 110029,
+    "teamId": 143,
+    "year": 2005
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 117601,
+    "teamId": 112,
+    "year": 2005
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 118120,
+    "teamId": 112,
+    "year": 2005
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 113744,
+    "teamId": 138,
+    "year": 2005
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 112116,
+    "teamId": 146,
+    "year": 2005
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 136780,
+    "teamId": 146,
+    "year": 2005
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 118414,
+    "teamId": 137,
+    "year": 2005
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 123744,
+    "teamId": 137,
+    "year": 2005
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 121347,
+    "teamId": 147,
+    "year": 2005
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 150093,
+    "teamId": 140,
+    "year": 2005
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120074,
+    "teamId": 111,
+    "year": 2005
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 122111,
+    "teamId": 147,
+    "year": 2005
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 123660,
+    "teamId": 111,
+    "year": 2005
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120903,
+    "teamId": 111,
+    "year": 2005
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 407893,
+    "teamId": 140,
+    "year": 2005
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 123173,
+    "teamId": 110,
+    "year": 2005
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 115223,
+    "teamId": 108,
+    "year": 2005
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 116662,
+    "teamId": 144,
+    "year": 2005
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 150324,
+    "teamId": 158,
+    "year": 2005
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 117601,
+    "teamId": 112,
+    "year": 2005
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 150479,
+    "teamId": 113,
+    "year": 2005
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 150302,
+    "teamId": 138,
+    "year": 2005
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 116999,
+    "teamId": 119,
+    "year": 2005
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 136664,
+    "teamId": 112,
+    "year": 2005
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 408234,
+    "teamId": 146,
+    "year": 2005
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 348563,
+    "teamId": 117,
+    "year": 2005
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 121665,
+    "teamId": 112,
+    "year": 2005
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 111153,
+    "teamId": 111,
+    "year": 2005
+  }
+]

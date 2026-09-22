@@ -1,0 +1,272 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 115223,
+    "teamId": 108,
+    "year": 2004
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 111188,
+    "teamId": 137,
+    "year": 2004
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 276371,
+    "teamId": 142,
+    "year": 2004
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 112388,
+    "teamId": 117,
+    "year": 2004
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 425853,
+    "teamId": 133,
+    "year": 2004
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 424726,
+    "teamId": 134,
+    "year": 2004
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 111214,
+    "teamId": 136,
+    "year": 2004
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 113889,
+    "teamId": 108,
+    "year": 2004
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 116539,
+    "teamId": 147,
+    "year": 2004
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 136767,
+    "teamId": 133,
+    "year": 2004
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 400085,
+    "teamId": 136,
+    "year": 2004
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 121358,
+    "teamId": 116,
+    "year": 2004
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 121386,
+    "teamId": 140,
+    "year": 2004
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 116338,
+    "teamId": 142,
+    "year": 2004
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 150484,
+    "teamId": 141,
+    "year": 2004
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 116662,
+    "teamId": 144,
+    "year": 2004
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 285131,
+    "teamId": 119,
+    "year": 2004
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 118120,
+    "teamId": 112,
+    "year": 2004
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 113744,
+    "teamId": 138,
+    "year": 2004
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 112116,
+    "teamId": 146,
+    "year": 2004
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 118414,
+    "teamId": 138,
+    "year": 2004
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 121409,
+    "teamId": 138,
+    "year": 2004
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 114135,
+    "teamId": 109,
+    "year": 2004
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 115732,
+    "teamId": 115,
+    "year": 2004
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 150093,
+    "teamId": 140,
+    "year": 2004
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120074,
+    "teamId": 111,
+    "year": 2004
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 122111,
+    "teamId": 147,
+    "year": 2004
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 121358,
+    "teamId": 116,
+    "year": 2004
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120903,
+    "teamId": 111,
+    "year": 2004
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 407893,
+    "teamId": 140,
+    "year": 2004
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 206551,
+    "teamId": 110,
+    "year": 2004
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 123173,
+    "teamId": 110,
+    "year": 2004
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 115223,
+    "teamId": 108,
+    "year": 2004
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 400121,
+    "teamId": 114,
+    "year": 2004
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 134181,
+    "teamId": 119,
+    "year": 2004
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 405395,
+    "teamId": 138,
+    "year": 2004
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 111188,
+    "teamId": 137,
+    "year": 2004
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 110029,
+    "teamId": 143,
+    "year": 2004
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 333292,
+    "teamId": 134,
+    "year": 2004
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 113744,
+    "teamId": 138,
+    "year": 2004
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 283051,
+    "teamId": 144,
+    "year": 2004
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 115817,
+    "teamId": 120,
+    "year": 2004
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 117928,
+    "teamId": 135,
+    "year": 2004
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 113726,
+    "teamId": 133,
+    "year": 2004
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 119236,
+    "teamId": 158,
+    "year": 2004
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 408047,
+    "teamId": 142,
+    "year": 2006
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 429667,
+    "teamId": 143,
+    "year": 2006
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 276371,
+    "teamId": 142,
+    "year": 2006
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 425630,
+    "teamId": 109,
+    "year": 2006
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 434378,
+    "teamId": 116,
+    "year": 2006
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 434670,
+    "teamId": 146,
+    "year": 2006
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 116539,
+    "teamId": 147,
+    "year": 2006
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 136767,
+    "teamId": 133,
+    "year": 2006
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 400085,
+    "teamId": 136,
+    "year": 2006
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 121358,
+    "teamId": 116,
+    "year": 2006
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 121386,
+    "teamId": 116,
+    "year": 2006
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 115210,
+    "teamId": 118,
+    "year": 2006
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 407893,
+    "teamId": 140,
+    "year": 2006
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 116338,
+    "teamId": 142,
+    "year": 2006
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 150484,
+    "teamId": 141,
+    "year": 2006
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 405395,
+    "teamId": 138,
+    "year": 2006
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 116662,
+    "teamId": 144,
+    "year": 2006
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 110385,
+    "teamId": 117,
+    "year": 2006
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 136860,
+    "teamId": 121,
+    "year": 2006
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 118120,
+    "teamId": 119,
+    "year": 2006
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 111904,
+    "teamId": 135,
+    "year": 2006
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 123744,
+    "teamId": 137,
+    "year": 2006
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 407861,
+    "teamId": 109,
+    "year": 2006
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 121409,
+    "teamId": 138,
+    "year": 2006
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120074,
+    "teamId": 111,
+    "year": 2006
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 116539,
+    "teamId": 147,
+    "year": 2006
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 113679,
+    "teamId": 145,
+    "year": 2006
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 150317,
+    "teamId": 145,
+    "year": 2006
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 408045,
+    "teamId": 142,
+    "year": 2006
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 408047,
+    "teamId": 142,
+    "year": 2006
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120903,
+    "teamId": 111,
+    "year": 2006
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 429664,
+    "teamId": 147,
+    "year": 2006
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 115223,
+    "teamId": 108,
+    "year": 2006
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 150093,
+    "teamId": 120,
+    "year": 2006
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 435263,
+    "teamId": 144,
+    "year": 2006
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 136860,
+    "teamId": 121,
+    "year": 2006
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 407296,
+    "teamId": 112,
+    "year": 2006
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 400284,
+    "teamId": 143,
+    "year": 2006
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 408314,
+    "teamId": 121,
+    "year": 2006
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 407812,
+    "teamId": 115,
+    "year": 2006
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 408234,
+    "teamId": 146,
+    "year": 2006
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 429667,
+    "teamId": 143,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 506635,
+    "teamId": 14,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 819990,
+    "teamId": 14,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 817021,
+    "teamId": 14,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 818393,
+    "teamId": 1512,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 506640,
+    "teamId": 14,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 506636,
+    "teamId": 1513,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 506633,
+    "teamId": 14,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 506630,
+    "teamId": 14,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 506642,
+    "teamId": 1520,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 818185,
+    "teamId": 14,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 816505,
+    "teamId": 1534,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 817369,
+    "teamId": 1512,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 817055,
+    "teamId": 14,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 819009,
+    "teamId": 14,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 820313,
+    "teamId": 1513,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 506641,
+    "teamId": 14,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 111600,
+    "teamId": 1520,
+    "year": 2006
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 123004,
+    "teamId": 138,
+    "year": 2006
+  }
+]

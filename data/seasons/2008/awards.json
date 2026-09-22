@@ -1,0 +1,290 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 456030,
+    "teamId": 111,
+    "year": 2008
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 405395,
+    "teamId": 138,
+    "year": 2008
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 424324,
+    "teamId": 114,
+    "year": 2008
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 453311,
+    "teamId": 137,
+    "year": 2008
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 446334,
+    "teamId": 139,
+    "year": 2008
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 434567,
+    "teamId": 112,
+    "year": 2008
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 134181,
+    "teamId": 136,
+    "year": 2008
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 150289,
+    "teamId": 139,
+    "year": 2008
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 456030,
+    "teamId": 111,
+    "year": 2008
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 429713,
+    "teamId": 114,
+    "year": 2008
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 400085,
+    "teamId": 136,
+    "year": 2008
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 408045,
+    "teamId": 142,
+    "year": 2008
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 276545,
+    "teamId": 140,
+    "year": 2008
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 119608,
+    "teamId": 147,
+    "year": 2008
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 116338,
+    "teamId": 108,
+    "year": 2008
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 408236,
+    "teamId": 135,
+    "year": 2008
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 408252,
+    "teamId": 113,
+    "year": 2008
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 136860,
+    "teamId": 121,
+    "year": 2008
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 431151,
+    "teamId": 121,
+    "year": 2008
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 118120,
+    "teamId": 119,
+    "year": 2008
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 276519,
+    "teamId": 143,
+    "year": 2008
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 434661,
+    "teamId": 134,
+    "year": 2008
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 425664,
+    "teamId": 143,
+    "year": 2008
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 425877,
+    "teamId": 138,
+    "year": 2008
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 121347,
+    "teamId": 147,
+    "year": 2008
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 333492,
+    "teamId": 110,
+    "year": 2008
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 435041,
+    "teamId": 145,
+    "year": 2008
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 116539,
+    "teamId": 147,
+    "year": 2008
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 456030,
+    "teamId": 111,
+    "year": 2008
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 429713,
+    "teamId": 114,
+    "year": 2008
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 408045,
+    "teamId": 142,
+    "year": 2008
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 285078,
+    "teamId": 140,
+    "year": 2008
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 408047,
+    "teamId": 142,
+    "year": 2008
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 405395,
+    "teamId": 138,
+    "year": 2008
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 435263,
+    "teamId": 144,
+    "year": 2008
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 407296,
+    "teamId": 112,
+    "year": 2008
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 400284,
+    "teamId": 143,
+    "year": 2008
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 431151,
+    "teamId": 121,
+    "year": 2008
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 434670,
+    "teamId": 146,
+    "year": 2008
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 407812,
+    "teamId": 115,
+    "year": 2008
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 460075,
+    "teamId": 158,
+    "year": 2008
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 407886,
+    "teamId": 138,
+    "year": 2008
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 545115,
+    "teamId": 14,
+    "year": 2008
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 122551,
+    "teamId": 138,
+    "year": 2008
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 545116,
+    "teamId": 14,
+    "year": 2008
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 124335,
+    "teamId": 133,
+    "year": 2008
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 114989,
+    "teamId": 147,
+    "year": 2008
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 545114,
+    "teamId": 14,
+    "year": 2008
+  }
+]
